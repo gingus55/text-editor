@@ -1,8 +1,8 @@
 #  PWA : Text Editor
 
+# Deployed APP
 
-
-
+https://pure-lowlands-65499.herokuapp.com/
 
 ## User Story
 
